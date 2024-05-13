@@ -23,7 +23,7 @@ The model achieved an accuracy of 85% on the test set.</br>
 True positive: 8, True negative: 9, False positive: 1, False negative: 2</br>
 Total accuracy: 85%
 ## Requirements
-Python 3 </br>
+Python </br>
 TensorFlow</br>
 Keras</br>
 NumPy</br>
